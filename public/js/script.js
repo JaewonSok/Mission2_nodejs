@@ -1,6 +1,6 @@
 // Do not enter your credentials.
-API_KEY_COOKIE = "1c0f93c848564574ace94f832881f9ad";
-CLIENT_ID_COOKIE = "1c0f93c848564574ace94f832881f9ad";
+API_KEY_COOKIE = "API_KEY";
+CLIENT_ID_COOKIE = "API_KEY";
 BING_ENDPOINT = "https://api.bing.microsoft.com/v7.0/search";
 
 // Various browsers differ in their support for persistent storage by local
